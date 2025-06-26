@@ -149,25 +149,4 @@ This project is open source and available under the MIT License.
 *Built with ❤️ for local communities using Stacks blockchain technology*
 ```
 
-## Git Commit Message
 
-```
-
-```
-
-## GitHub Pull Request Title
-
-```
-🏛️ Add DAO Smart Contract for Community-Driven Local Project Funding
-```
-
-## GitHub Pull Request Description
-
-```markdown
-## 📋 Summary
-
-This PR introduces a comprehensive DAO (Decentralized Autonomous Organization) smart contract for funding local community projects through democratic governance on the Stacks blockchain.
-
-## ✨ What's Added
-
-- **Complete
