@@ -1,0 +1,27 @@
+[project]
+name = 'DAO-for-Local-Project-Funding'
+description = ''
+authors = []
+telemetry = true
+cache_dir = '.\.cache'
+requirements = []
+[contracts.DAO-for-Local-Project-Funding]
+path = 'contracts/DAO-for-Local-Project-Funding.clar'
+clarity_version = 3
+epoch = 3.1
+[contracts.proposal-delegation]
+path = 'contracts/proposal-delegation.clar'
+clarity_version = 3
+epoch = 3.1
+[repl.analysis]
+passes = ['check_checker']
+
+[repl.analysis.check_checker]
+strict = false
+trusted_sender = false
+trusted_caller = false
+callee_filter = false
+
+[repl.remote_data]
+enabled = false
+api_url = 'https://api.hiro.so'
