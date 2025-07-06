@@ -9,6 +9,10 @@ requirements = []
 path = 'contracts/DAO-for-Local-Project-Funding.clar'
 clarity_version = 3
 epoch = 3.1
+[contracts.proposal-delegation]
+path = 'contracts/proposal-delegation.clar'
+clarity_version = 3
+epoch = 3.1
 [repl.analysis]
 passes = ['check_checker']
 
